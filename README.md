@@ -35,12 +35,12 @@ the tool being used is called [Colab-Convert](https://github.com/MSFTserver/cola
 * Fixed issue with NaNs resulting in black images, with massive help and testing from @Softology
 * Perlin now changes properly within batches (not sure where this perlin_regen code came from originally, but thank you)
 
-#### v4 Update: Jan 2021 - Somnai
+#### v4 Update: Jan 2022 - Somnai
 * Implemented Diffusion Zooming
 * Added Chigozie keyframing
 * Made a bunch of edits to processes
 
-#### v4.1 Update: Jan 14th 2021 - Somnai
+#### v4.1 Update: Jan 14th 2022 - Somnai
 * Added video input mode
 * Added license that somehow went missing
 * Added improved prompt keyframing, fixed image_prompts and multiple prompts
